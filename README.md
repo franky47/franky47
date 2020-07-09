@@ -4,7 +4,7 @@ I'm passionate about open-source, you can find my work under the following organ
 
 - [**47ng**](https://github.com/47ng): Web application components _(Node.js, React, TypeScript, a bit of Rust)_
 - [**Forty Seven Effects**](https://github.com/FortySevenEffects): Music & C++, home of the [Arduino MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library), my oldest and most successful open-source project.
-- [**Chiffre.io**](https://github.com/chiffre_io): Open-source components for [Chiffre.io](https://chiffre.io), my end-to-end encrypted analytics side project.
+- [**Chiffre.io**](https://github.com/chiffre-io): Open-source components for [Chiffre.io](https://chiffre.io), my end-to-end encrypted analytics side project.
 
 I also write about the things I'm working on in my [blog & digital garden](https://francoisbest.com).
 
