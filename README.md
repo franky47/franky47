@@ -13,4 +13,4 @@ Follow me on social media:
 - [DEV.to](https://dev.to/franky47)
 - [Keybase](https://keybase.io/franky47)
 
-![François Best's GitHub stats](https://github-readme-stats.vercel.app/api?username=franky47)
+![François Best's GitHub stats](https://github-readme-stats.vercel.app/api?username=franky47&show_icons=true)
