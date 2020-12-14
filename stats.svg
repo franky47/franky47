@@ -1,0 +1,14 @@
+<svg fill="none" viewBox="0 0 495 195" width="495" height="195" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        image#light {display:block}
+        image#dark{display:none}
+        html[data-color-mode="dark"] image#light {display:none}
+        html[data-color-mode="dark"] image#dark {display:block}
+      </style>
+    </div>
+  </foreignObject>
+  <image id="light" width="495" height="195" href="https://github-readme-stats.vercel.app/api?username=franky47&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true" />
+  <image id="dark" width="495" height="195" href="https://github-readme-stats.vercel.app/api?username=franky47&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=onedark" />
+</svg>
