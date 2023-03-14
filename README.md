@@ -11,7 +11,6 @@ I write about the things I work on in my [blog & digital garden](https://francoi
 Follow me on social media:
 
 [![Follow me on Mastodon](https://badgen.net//mastodon/follow/Franky47@mamot.fr)](https://mamot.fr/@Franky47)
-[![Find me on Keybase](https://badgen.net/keybase/pgp/franky47?icon=keybase&label=Keybase%20PGP)](https://keybase.io/franky47)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franky47&hide=Eagle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
