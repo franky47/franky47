@@ -8,7 +8,7 @@ I'm passionate about open-source, and share my work under the following organisa
 
 I write about the things I work on in my [blog & digital garden](https://francoisbest.com).
 
-Follow me on Bluesky: [@francoisbest.com](https://bsky.app/profile/francoisbest.com)
+🦋 [@francoisbest.com](https://bsky.app/profile/francoisbest.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franky47&hide=Eagle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
