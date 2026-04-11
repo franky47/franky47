@@ -8,7 +8,7 @@ I build developer tools and libraries focused on **type safety**, **privacy**, a
 
 <p align="center">
   <a href="https://github.com/sponsors/franky47">
-    <img src="badges/sponsor.svg" alt="Sponsor" width="276" height="32" style="border-radius:4px;background:linear-gradient(to right,#ec4899 32px,#555 32px)" />
+    <img src="https://raw.githubusercontent.com/franky47/franky47/refs/heads/master/badges/sponsor.svg" alt="Sponsor" width="276" height="32" />
   </a>
 </p>
 
@@ -118,6 +118,6 @@ AI               Claude Opus 4.6 · GPT 5.4
 
 <p align="center">
   <a href="https://github.com/sponsors/franky47">
-    <img src="badges/sponsor.svg" alt="Sponsor" width="276" height="32" style="border-radius:4px;background:linear-gradient(to right,#ec4899 32px,#555 32px)" />
+    <img src="https://raw.githubusercontent.com/franky47/franky47/refs/heads/master/badges/sponsor.svg" alt="Sponsor" width="276" height="32" />
   </a>
 </p>
