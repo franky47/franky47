@@ -10,5 +10,5 @@ I write about the things I work on in my [blog & digital garden](https://francoi
 
 🦋 [@francoisbest.com](https://bsky.app/profile/francoisbest.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franky47&hide=Eagle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=franky47&hide=Eagle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
