@@ -8,7 +8,7 @@ I build developer tools and libraries focused on **type safety**, **privacy**, a
 
 <p align="center">
   <a href="https://github.com/sponsors/franky47">
-    <img src="https://img.shields.io/badge/sponsor_my_open_source_work-♥-ec4899?style=for-the-badge" alt="Sponsor" />
+    <img src="badges/sponsor.svg" alt="Sponsor" />
   </a>
 </p>
 
@@ -118,6 +118,6 @@ AI               Claude Opus 4.6 · GPT 5.4
 
 <p align="center">
   <a href="https://github.com/sponsors/franky47">
-    <img src="https://img.shields.io/badge/sponsor_my_open_source_work-♥-ec4899?style=for-the-badge" alt="Sponsor" />
+    <img src="badges/sponsor.svg" alt="Sponsor" />
   </a>
 </p>
