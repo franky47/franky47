@@ -55,8 +55,8 @@ Frontend         React 19+ (RSC) · Next.js · TanStack Start · React Router ·
 Backend          Node.js · Fastify · Bun · Elysia
 Data             PostgreSQL · Redis · Prisma · Drizzle
 Tooling          Vite · Vitest · oxlint · oxfmt · tsdown · MDX · Fumadocs
-Libraries        nuqs · TanStack Query · Zod
-AI               Claude Opus 4.6 · GPT 5.4
+Libraries        nuqs · TanStack Query · Zod · errore
+AI               Claude Opus 4.7 · GPT 5.4
 ```
 
 ## Talks
