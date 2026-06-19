@@ -8,20 +8,22 @@ I build developer tools and libraries focused on **type safety**, **privacy**, a
 
 <p align="center">
   <a href="https://github.com/sponsors/franky47">
-    <img src="https://raw.githubusercontent.com/franky47/franky47/refs/heads/master/badges/sponsor.svg" alt="Sponsor" width="276" height="32" />
+    <img src="https://shieldcn.dev/badge/Sponsor%20my%20open%20source%20work-EA4AAA.svg?size=lg&logo=githubsponsors&logoColor=fff" alt="Sponsor my open source work" />
   </a>
 </p>
 
 <br/>
 
-<p align="center">
-  <a href="https://francoisbest.com"><img src="https://img.shields.io/badge/🏡-francoisbest.com-18181b" alt="Blog" /></a>
-  <a href="https://x.com/fortysevenfx"><img src="https://img.shields.io/badge/Twitter-000?logo=x&logoColor=fff" alt="Twitter" /></a>
-  <a href="https://bsky.app/profile/francoisbest.com"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" alt="Bluesky" /></a>
-  <a href="https://www.linkedin.com/in/francoisbest/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU2YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42Nkg5LjM0VjloMy40MXYxLjU2aC4wNWMuNDctLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjlaTTUuMzQgNy40M2MtMS4xNCAwLTIuMDYtLjkzLTIuMDYtMi4wNyAwLTEuMTQuOTItMi4wNyAyLjA2LTIuMDcgMS4xNCAwIDIuMDYuOTMgMi4wNiAyLjA3IDAgMS4xNC0uOTIgMi4wNy0yLjA2IDIuMDd6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-  <a href="https://www.twitch.tv/francoisbest"><img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff" alt="Twitch" /></a>
-  <a href="https://www.youtube.com/@47ng-dev"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff" alt="YouTube" /></a>
-</p>
+<div align="center">
+
+[![Home page](https://www.shieldcn.dev/badge/francoisbest.com-181717.svg?logo=ri%3ALuLink&variant=secondary&size=xs)](https://francoisbest.com)
+[![X/Twitter](https://www.shieldcn.dev/x/fortysevenfx.svg?variant=branded&size=xs&label=)](https://x.com/fortysevenfx)
+[![Bluesky](https://www.shieldcn.dev/badge/Bluesky-0085FF.svg?logo=bluesky&variant=branded&size=xs)](https://bsky.app/profile/francoisbest.com)
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-0A66C2.svg?logo=ri:FaLinkedinIn&variant=branded&size=xs)](https://www.linkedin.com/in/francoisbest)
+[![Twitch](https://www.shieldcn.dev/badge/Twitch-9146FF.svg?logo=twitch&variant=branded&size=xs)](https://www.twitch.tv/francoisbest)
+[![YouTube](https://www.shieldcn.dev/badge/YouTube-FF0000.svg?logo=youtube&variant=branded&size=xs)](https://www.youtube.com/@47ng-dev)
+
+</div>
 
 <br/>
 
@@ -105,19 +107,22 @@ AI               Claude Opus 4.7 · GPT 5.5 · Qwen 3.6 (running locally)
 
 <br/>
 
-<p align="center">
-  <a href="https://francoisbest.com"><img src="https://img.shields.io/badge/🏡-francoisbest.com-18181b" alt="Blog" /></a>
-  <a href="https://x.com/fortysevenfx"><img src="https://img.shields.io/badge/Twitter-000?logo=x&logoColor=fff" alt="Twitter" /></a>
-  <a href="https://bsky.app/profile/francoisbest.com"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" alt="Bluesky" /></a>
-  <a href="https://www.linkedin.com/in/francoisbest/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU2YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42Nkg5LjM0VjloMy40MXYxLjU2aC4wNWMuNDctLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjlaTTUuMzQgNy40M2MtMS4xNCAwLTIuMDYtLjkzLTIuMDYtMi4wNyAwLTEuMTQuOTItMi4wNyAyLjA2LTIuMDcgMS4xNCAwIDIuMDYuOTMgMi4wNiAyLjA3IDAgMS4xNC0uOTIgMi4wNy0yLjA2IDIuMDd6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-  <a href="https://www.twitch.tv/francoisbest"><img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff" alt="Twitch" /></a>
-  <a href="https://www.youtube.com/@47ng-dev"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff" alt="YouTube" /></a>
-</p>
+
+<div align="center">
+
+[![Home page](https://www.shieldcn.dev/badge/francoisbest.com-181717.svg?logo=ri%3ALuLink&variant=secondary&size=xs)](https://francoisbest.com)
+[![X/Twitter](https://www.shieldcn.dev/x/fortysevenfx.svg?variant=branded&size=xs&label=)](https://x.com/fortysevenfx)
+[![Bluesky](https://www.shieldcn.dev/badge/Bluesky-0085FF.svg?logo=bluesky&variant=branded&size=xs)](https://bsky.app/profile/francoisbest.com)
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-0A66C2.svg?logo=ri:FaLinkedinIn&variant=branded&size=xs)](https://www.linkedin.com/in/francoisbest)
+[![Twitch](https://www.shieldcn.dev/badge/Twitch-9146FF.svg?logo=twitch&variant=branded&size=xs)](https://www.twitch.tv/francoisbest)
+[![YouTube](https://www.shieldcn.dev/badge/YouTube-FF0000.svg?logo=youtube&variant=branded&size=xs)](https://www.youtube.com/@47ng-dev)
+
+</div>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/sponsors/franky47">
-    <img src="https://raw.githubusercontent.com/franky47/franky47/refs/heads/master/badges/sponsor.svg" alt="Sponsor" width="276" height="32" />
+    <img src="https://shieldcn.dev/badge/Sponsor%20my%20open%20source%20work-EA4AAA.svg?size=lg&logo=githubsponsors&logoColor=fff" alt="Sponsor my open source work" />
   </a>
 </p>
