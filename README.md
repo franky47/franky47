@@ -58,7 +58,7 @@ Backend          Node.js · Fastify · Bun · Elysia
 Data             PostgreSQL · Redis · Prisma · Drizzle
 Tooling          Vite · Vitest · oxlint · oxfmt · tsdown · MDX · Fumadocs
 Libraries        nuqs · TanStack Query · Zod · errore
-AI               Claude Fable 5 · GPT 5.6 Sol · Qwen 3.6 27B (running locally)
+AI               Claude (Opus 5.5, Fable 5.1) · GPT (6 Astra, 6.1 Sol) · Qwen 3.6 28B (running locally)
 ```
 
 ## Talks
